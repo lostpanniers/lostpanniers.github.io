@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Lost Panniers]]></title>
+  <link href="http://lostpanniers.com/atom.xml" rel="self"/>
+  <link href="http://lostpanniers.com/"/>
+  <updated>2016-03-05T14:17:06+11:00</updated>
+  <id>http://lostpanniers.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[lostpanniers@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Join me in adventure]]></title>
+    <link href="http://lostpanniers.com/blog/2016/03/05/hello-there/"/>
+    <updated>2016-03-05T14:06:20+11:00</updated>
+    <id>http://lostpanniers.com/blog/2016/03/05/hello-there</id>
+    <content type="html"><![CDATA[<p>I have a dream: To ride from Australia to Europe overland.</p>
+
+<p>Join me as I make that dream a reality.</p>
+]]></content>
+  </entry>
+  
+</feed>
