@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://lostpanniers.com/sitemap.xml 
+Sitemap: http://lostpanniers.github.io/sitemap.xml 
